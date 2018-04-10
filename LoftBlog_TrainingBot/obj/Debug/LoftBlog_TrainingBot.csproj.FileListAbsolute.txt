@@ -1,0 +1,51 @@
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Bot Application.dll.config
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Bot Application.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Bot Application.pdb
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\en-US\Bot Application.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Autofac.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Chronic.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Newtonsoft.Json.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\RestSharp.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.Net.Http.Formatting.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.Web.Http.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.Web.Http.WebHost.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\YandexLinguistics.NET.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Autofac.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\Newtonsoft.Json.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\RestSharp.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.Net.Http.Formatting.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.Web.Http.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\System.Web.Http.WebHost.xml
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\LoftBlog_TrainingBot.csprojResolveAssemblyReference.cache
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\LoftBlog_TrainingBot.Resources.Resources.resources
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\LoftBlog_TrainingBot.Resources.Resources.en-US.resources
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\LoftBlog_TrainingBot.csproj.GenerateResource.Cache
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\LoftBlog_TrainingBot.csproj.CoreCompileInputs.cache
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\en-US\Bot Application.resources.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\Bot Application.dll
+C:\Users\bokoch\Desktop\LoftBlog_TrainingBot-master\Lesson6\LoftBlog_TrainingBot\LoftBlog_TrainingBot\obj\Debug\Bot Application.pdb
